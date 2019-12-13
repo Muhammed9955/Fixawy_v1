@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://medo:medo@fixawy-tjzoz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
